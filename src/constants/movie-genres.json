@@ -1,0 +1,78 @@
+{
+    "28": {
+        "id": 28,
+        "name": "Aksiyon"
+    },
+    "12": {
+        "id": 12,
+        "name": "Macera"
+    },
+    "16": {
+        "id": 16,
+        "name": "Animasyon"
+    },
+    "35": {
+        "id": 35,
+        "name": "Komedi"
+    },
+    "80": {
+        "id": 80,
+        "name": "Suç"
+    },
+    "99": {
+        "id": 99,
+        "name": "Belgesel"
+    },
+    "18": {
+        "id": 18,
+        "name": "Dram"
+    },
+    "10751": {
+        "id": 10751,
+        "name": "Aile"
+    },
+    "14": {
+        "id": 14,
+        "name": "Fantastik"
+    },
+    "36": {
+        "id": 36,
+        "name": "Tarih"
+    },
+    "27": {
+        "id": 27,
+        "name": "Korku"
+    },
+    "10402": {
+        "id": 10402,
+        "name": "Müzik"
+    },
+    "9648": {
+        "id": 9648,
+        "name": "Gizem"
+    },
+    "10749": {
+        "id": 10749,
+        "name": "Romantik"
+    },
+    "878": {
+        "id": 878,
+        "name": "Bilim-Kurgu"
+    },
+    "10770": {
+        "id": 10770,
+        "name": "TV film"
+    },
+    "53": {
+        "id": 53,
+        "name": "Gerilim"
+    },
+    "10752": {
+        "id": 10752,
+        "name": "Savaş"
+    },
+    "37": {
+        "id": 37,
+        "name": "Vahşi Batı"
+    }
+}

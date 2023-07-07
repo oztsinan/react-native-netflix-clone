@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "netflix-clone",
+    "slug": "netflix-clone",
+    "android": {
+      "package": "com.sinanozturk.netflixclone"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sinanozturk.netflixclone"
+    }
+  }
+}
