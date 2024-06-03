@@ -7,9 +7,7 @@ Typescript - React Native - Expo Router - Reanimated 3
 
 Netflix mobil uygulamasının React Native - Expo CLI kullanılarak klonunu yazdım. Proje Expo'nun en son sürümünü kullanır , development modda derleyip çalıştırılabilir.
 
-![](https://i.hizliresim.com/cu2ot24.png)
-
-![](https://i.hizliresim.com/6t8jxcd.png)
+![cover](https://i.hizliresim.com/6t8jxcd.png)
 
 ![](https://i.hizliresim.com/rtwozzm.png)
 
